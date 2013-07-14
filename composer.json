@@ -16,8 +16,8 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.3",
-        "net_bazzline/component_process_identity": "@dev",
-        "net_bazzline/component_heartbeat": "@dev"
+        "net_bazzline/component_process_identity": "dev-master",
+        "net_bazzline/component_heartbeat": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.*",
