@@ -1,6 +1,6 @@
 <?php
 /**
- * @author stev leibelt <artodeto@arcor.de>
+ * @author stev leibelt <artodeto@bazzline.net>
  * @since 2013-07-15
  */
 
@@ -13,7 +13,7 @@ use Net\Bazzline\Component\ProcessIdentity\IdentityInterface;
  * Class ProcessListItemInterface
  *
  * @package Net\Bazzline\Component\ProcessList
- * @author stev leibelt <artodeto@arcor.de>
+ * @author stev leibelt <artodeto@bazzline.net>
  * @since 2013-07-15
  */
 interface ProcessItemInterface extends HeartbeatClientInterface, IdentityInterface
